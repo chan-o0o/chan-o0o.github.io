@@ -1,6 +1,24 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 안녕하세요 👋
+
+기계공학과 의생명공학을 공부하며 의료기기 분야를 꿈꾸는 학생입니다.
+
+## 관심 분야
+- 🔧 기계공학: 역학, 설계, 제조
+- 🧬 의생명공학: 생체역학, 의료기기
+- 💻 소프트웨어: 데이터 분석, 시뮬레이션
+
+## 주요 프로젝트
+- [[Projects/프로젝트1|프로젝트명]] - 간단한 설명
+- [[Projects/프로젝트2|프로젝트명]] - 간단한 설명
+
+## 지식 베이스
+- [[Mechanical-Engineering/index|기계공학]] - 역학 및 설계 이론
+- [[Biomedical/index|의생명공학]] - 생명과학 및 의료기기
+- [[Software/index|소프트웨어]] - 프로그래밍 및 데이터 분석
+
+---
+*이 블로그는 학습 과정을 기록하고 지식을 체계화하기 위한 공간입니다.*
