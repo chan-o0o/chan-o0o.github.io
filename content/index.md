@@ -20,5 +20,16 @@ title: Home
 - [[Biomedical/index|의생명공학]] - 생명과학 및 의료기기
 - [[Software/index|소프트웨어]] - 프로그래밍 및 데이터 분석
 
+
+---
+
+## 📬 Contact Us
+
+아이디어 제안, 협업 문의, 또는 질문이 있으시면 언제든 연락주세요!
+
+- 📧 **Email**: [chanoo.hub@gmail.com](mailto:chanoo.hub@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐙 **GitHub**: [github.com/chan-o0o](https://github.com/chan-o0o)
+
 ---
 *이 블로그는 학습 과정을 기록하고 지식을 체계화하기 위한 공간입니다.*
