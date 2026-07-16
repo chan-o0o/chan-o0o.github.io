@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Projects
+tags:
+ - Mechanics
+ - Data
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+개인 또는 팀 단위의 프로젝트를 저장해놓은 공간입니다.
