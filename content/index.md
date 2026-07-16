@@ -15,8 +15,15 @@ title: Home
 - [[Projects/Robot_Mechanism_Optimizer|Robot Mechanism Optimizer]] - ChatGPT와 함께 시뮬레이션을 만들어보며 코딩을 공부
 - [[Projects/Machine_Learning_Pytorch|Machine learning Pytorch]] - 머신러닝을 공부합니다
 
-*이 블로그는 학습 과정을 기록하는 공간입니다.
+
 
 ---
-Contact: Chanoo.hub@gmail.com
-Github: https://github.com/chan-o0o
+
+## Contact Us
+
+**Email**: [chanoo.hub@gmail.com](mailto:chanoo.hub@gmail.com)
+**LinkedIn**: 
+**Github**: [github.com/chan-o0o](https://github.com/chan-o0o)
+
+
+*이 블로그는 학습 과정을 기록하는 공간입니다.
