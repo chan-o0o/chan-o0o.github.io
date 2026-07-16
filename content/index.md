@@ -16,3 +16,7 @@ title: Home
 - [[Projects/Machine_Learning_Pytorch|Machine learning Pytorch]] - 머신러닝을 공부합니다
 
 *이 블로그는 학습 과정을 기록하는 공간입니다.
+
+---
+Contact: Chanoo.hub@gmail.com
+Github: https://github.com/chan-o0o
