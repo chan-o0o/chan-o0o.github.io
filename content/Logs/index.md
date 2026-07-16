@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Log
+tags:
+ - Daily Life
+ - Footprints
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+남겼던 발자취를 다시 되짚는 공간입니다.
